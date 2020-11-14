@@ -1,6 +1,6 @@
 # Estudio de Batería
 ## Repositorio con transcripciones de ejercicios de sticking, patrones, independencia y breaks.
---
+
 
 ### Índice
 1. Sticking y Rudimentos
